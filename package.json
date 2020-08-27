@@ -1,0 +1,14 @@
+{
+  "name": "viomi-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ttq",
+  "bin": {
+    "viomi-cli": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.0.0",
+    "mkdirp": "^1.0.4"
+  }
+}
